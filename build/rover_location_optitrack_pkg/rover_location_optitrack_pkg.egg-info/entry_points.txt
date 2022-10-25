@@ -1,0 +1,3 @@
+[console_scripts]
+optitrack_client = rover_location_optitrack_pkg.optitrack_client:main
+

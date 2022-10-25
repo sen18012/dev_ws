@@ -1,0 +1,37 @@
+[3.393s] Invoking command in '/home/katharine/Workspaces/dev_ws/src/rover_location_optitrack_pkg': PYTHONPATH=/home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rover_location_optitrack_pkg build --build-base /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build install --prefix /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg --record /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/install.log --single-version-externally-managed
+[4.274s] running egg_info
+[4.276s] creating ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info
+[4.277s] writing ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/PKG-INFO
+[4.278s] writing dependency_links to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/dependency_links.txt
+[4.279s] writing entry points to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/entry_points.txt
+[4.280s] writing requirements to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/requires.txt
+[4.280s] writing top-level names to ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/top_level.txt
+[4.294s] writing manifest file '../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/SOURCES.txt'
+[4.419s] reading manifest file '../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/SOURCES.txt'
+[4.422s] writing manifest file '../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info/SOURCES.txt'
+[4.423s] running build
+[4.424s] running build_py
+[4.425s] creating /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build
+[4.426s] creating /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build/lib
+[4.426s] creating /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg
+[4.427s] copying rover_location_optitrack_pkg/__init__.py -> /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg
+[4.427s] copying rover_location_optitrack_pkg/optitrack_client.py -> /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg
+[4.428s] running install
+[4.430s] running install_lib
+[4.438s] creating /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg
+[4.442s] copying /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg/__init__.py -> /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg
+[4.442s] copying /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build/lib/rover_location_optitrack_pkg/optitrack_client.py -> /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg
+[4.443s] byte-compiling /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg/__init__.py to __init__.cpython-38.pyc
+[4.444s] byte-compiling /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg/optitrack_client.py to optitrack_client.cpython-38.pyc
+[4.446s] running install_data
+[4.448s] creating /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/share/ament_index
+[4.449s] creating /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/share/ament_index/resource_index
+[4.450s] creating /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/share/ament_index/resource_index/packages
+[4.450s] copying resource/rover_location_optitrack_pkg -> /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/share/ament_index/resource_index/packages
+[4.451s] copying package.xml -> /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/share/rover_location_optitrack_pkg
+[4.451s] running install_egg_info
+[4.456s] Copying ../../build/rover_location_optitrack_pkg/rover_location_optitrack_pkg.egg-info to /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages/rover_location_optitrack_pkg-0.0.0-py3.8.egg-info
+[4.461s] running install_scripts
+[4.522s] Installing optitrack_client script to /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/rover_location_optitrack_pkg
+[4.523s] writing list of installed files to '/home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/install.log'
+[4.593s] Invoked command in '/home/katharine/Workspaces/dev_ws/src/rover_location_optitrack_pkg' returned '0': PYTHONPATH=/home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/rover_location_optitrack_pkg build --build-base /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/build install --prefix /home/katharine/Workspaces/dev_ws/install/rover_location_optitrack_pkg --record /home/katharine/Workspaces/dev_ws/build/rover_location_optitrack_pkg/install.log --single-version-externally-managed
